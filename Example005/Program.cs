@@ -11,8 +11,7 @@ namespace Example005
 
             if (Num>99 && Num<1000)
             {
-                int z = Num % 10;
-                Console.WriteLine(z);
+                Console.WriteLine(Num%10);
             }
             else
             {
