@@ -9,7 +9,7 @@ namespace Ex2
             Console.WriteLine("Введите первое число: ");
             int NumA = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Введите первое число: ");
+            Console.WriteLine("Введите Второе число: ");
             int NumB = Convert.ToInt32(Console.ReadLine());
 
             if(NumA==NumB)
